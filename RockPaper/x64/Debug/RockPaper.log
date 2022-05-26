@@ -1,0 +1,3 @@
+﻿  RockPaper.cpp
+C:\Users\NiroyanKugaruban\source\repos\RockPaper\RockPaper\RockPaper.cpp(22,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RockPaper.vcxproj -> C:\Users\NiroyanKugaruban\source\repos\RockPaper\x64\Debug\RockPaper.exe
